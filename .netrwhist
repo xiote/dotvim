@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/xiote/.vim/pack/plugins/start/myvim/plugin'
+let g:netrw_dirhist_4='/Users/xiote/.vim/pack/plugins/start/myvim'
+let g:netrw_dirhist_3='/Users/xiote/.vim/pack/plugins/start'
+let g:netrw_dirhist_2='/Users/xiote/.vim/pack/plugins/start/vim-prettier'
+let g:netrw_dirhist_1='/Users/xiote/.vim/pack/plugins/start/myvim/plugin'
+let g:netrw_dirhist_0='/Users/xiote/.vim/pack/plugins/start/myvim'
+let g:netrw_dirhist_9='/Users/xiote/.vim/pack/plugins/start'
+let g:netrw_dirhist_8='/Users/xiote/.vim/pack/plugins/start/vim-prettier'
+let g:netrw_dirhist_7='/Users/xiote/.vim/pack/plugins/start/myvim/plugin'
+let g:netrw_dirhist_6='/Users/xiote/.vim/pack/plugins/start/myvim'
