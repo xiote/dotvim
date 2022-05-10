@@ -10,3 +10,6 @@
 [submodule "pack/plugins/start/myvim"]
 	path = pack/plugins/start/myvim
 	url = https://github.com/xiote/myvim
+[submodule "pack/plugins/start/emmet-vim"]
+	path = pack/plugins/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
