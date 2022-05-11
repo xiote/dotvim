@@ -14,7 +14,7 @@ jiangmiao/auto-pairs      ' Insert or delete brackets, parens, quotes in pair.
 dense-analysis/ale        ' Asynchronous Lint Engine <signcolumn>
 
 pangloss/vim-javascript   ' JavaScript bundle for vim, this bundle provides syntax highlighting and improved indentation.
-prettier/vim-prettier     ' An opinionated code formatter <show quickfix and not focus>
+prettier/vim-prettier     ' An opinionated code formatter <show quickfix and not focus, conflict with ale>
 alvan/vim-closetag        ' Easy closetag plugin
 
 fatih/vim-go              ' This plugin adds Go language support for Vim
