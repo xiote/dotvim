@@ -10,6 +10,7 @@
 [submodule "pack/plugins/start/myvim"]
 	path = pack/plugins/start/myvim
 	url = https://github.com/xiote/myvim
+	branch = main
 [submodule "pack/plugins/start/auto-pairs"]
 	path = pack/plugins/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
