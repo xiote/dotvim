@@ -31,3 +31,6 @@
 [submodule "pack/plugins/start/macvim-light"]
 	path = pack/plugins/start/macvim-light
 	url = https://github.com/aunsira/macvim-light
+[submodule "after/plugin/myvim-after"]
+	path = after/plugin/myvim-after
+	url = https://github.com/xiote/myvim-after
