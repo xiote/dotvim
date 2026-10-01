@@ -5,6 +5,12 @@
 git clone --recursive https://github.com/xiote/dotvim .vim
 ```
 
+## 줄 이동
+
+`myvim` 설정은 입력 모드의 `Ctrl+A`를 앞쪽 공백을 포함한 줄 맨 앞으로, `Ctrl+E`를 줄 끝으로 이동하도록 매핑합니다. 이동한 뒤에도 입력 모드를 유지합니다. macOS에서 Karabiner가 오른쪽 Command를 Control로 변환하는 터미널에서는 `오른쪽 Command+A/E`로 사용합니다.
+
+현재 저장소가 가리키는 `myvim` 서브모듈 버전이 설치되어 있어야 합니다. 이미 열려 있는 Vim에 적용하는 방법은 [myvim 사용법](pack/plugins/start/myvim/README.md)을 참고하세요.
+
 ## List
 ```
 xiote/myvim               ' Vimrc
